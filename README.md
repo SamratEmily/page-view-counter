@@ -172,16 +172,15 @@ $bots = apply_filters('pvc_bot_patterns', $bots);
 ## 📊 Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+<img width="1422" height="571" alt="Screenshot 2025-07-28 at 1 43 04 PM" src="https://github.com/user-attachments/assets/9f861e59-eb1b-4362-bc43-aa9704bfc62e" />
+
 *Clean, intuitive admin interface with statistics overview*
 
 ### Statistics Overview
-![Statistics](screenshots/statistics.png)
+<img width="1422" height="571" alt="Screenshot 2025-07-28 at 1 43 04 PM" src="https://github.com/user-attachments/assets/58560b19-589c-4fb2-91ba-ea661b6a0e0a" />
+
 *Comprehensive view statistics and analytics*
 
-### Post Edit Meta Box
-![Meta Box](screenshots/meta-box.png)
-*View counts integrated into post edit screens*
 
 ## 🤝 Contributing
 
