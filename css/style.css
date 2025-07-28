@@ -1,0 +1,88 @@
+/**
+ * Page View Counter Styles
+ */
+
+/* View counter display styles */
+.pvc-view-count {
+  font-size: 14px;
+  color: #666;
+  margin: 10px 0;
+}
+
+.pvc-view-count .count {
+  font-weight: bold;
+  color: #333;
+}
+
+/* Admin meta box styles */
+#pvc-view-counter .inside {
+  margin: 0;
+  padding: 0;
+}
+
+#pvc-view-counter p {
+  margin: 5px 0;
+  font-size: 13px;
+}
+
+#pvc-view-counter strong {
+  display: inline-block;
+  width: 80px;
+  color: #333;
+}
+
+/* Admin column styles */
+.column-pvc_views {
+  width: 80px;
+  text-align: center;
+}
+
+.column-pvc_views strong {
+  color: #0073aa;
+}
+
+/* Admin page styles */
+.pvc-stats-summary {
+  background: #fff;
+  border: 1px solid #ccd0d4;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 4px;
+}
+
+.pvc-stats-summary .stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.pvc-stats-summary .stat-item {
+  text-align: center;
+}
+
+.pvc-stats-summary .stat-number {
+  font-size: 2em;
+  font-weight: bold;
+  color: #0073aa;
+  display: block;
+}
+
+.pvc-filters {
+  margin: 20px 0;
+}
+
+.column-views {
+  width: 100px;
+}
+
+.column-type {
+  width: 80px;
+}
+
+.column-last-viewed {
+  width: 150px;
+}
+
+.column-actions {
+  width: 80px;
+}
