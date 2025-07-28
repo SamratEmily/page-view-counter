@@ -6,7 +6,6 @@ Version: 1.1.0
 Author: SamratEmily
 Author URI: https://github.com/samratemily
 Text Domain: page-view-counter
-Domain Path: /languages
 License: GPL v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
